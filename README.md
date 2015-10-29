@@ -1,11 +1,11 @@
-# Bragrammer (Brogrammer - Modified)
+# Nightfox (Nightfox)
 
-"Nightfox" is an altered version of the popular Sublime Text 3 theme "Brogrammer".  Brogrammer has a lot of good qualities about it but there were some things I wanted to do in order to help improve the overall feel of this theme.
+"Nightfox" is inspired by the popular Sublime Text 3 theme "Brogrammer".  Brogrammer has a lot of good qualities about it but there were some things I wanted to do in order to help improve the overall feel of this theme.
 
 ![Nightfox Screenshot](http://i.imgur.com/W8WvBfP.png)
 ![Nightfox Screenshot](http://i.imgur.com/YGnktuG.png)
 
-### Modifications
+### Key Modifications (that improve on Brogrammer)
 
 	1.  General Font:
 		a.  Colors were dulled just a tad (or lightened in some cases).
