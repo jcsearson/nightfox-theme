@@ -1,11 +1,11 @@
-# Nightfox (Nightfox)
+# Nightfox
 
 "Nightfox" is inspired by the popular Sublime Text 3 theme "Brogrammer".  Brogrammer has a lot of good qualities about it but there were some things I wanted to do in order to help improve the overall feel of this theme.
 
 ![Nightfox Screenshot](http://i.imgur.com/W8WvBfP.png)
 ![Nightfox Screenshot](http://i.imgur.com/YGnktuG.png)
 
-### Key Modifications (that improve on Brogrammer)
+### Key Upgrades
 
 	1.  General Font:
 		a.  Colors were dulled just a tad (or lightened in some cases).
@@ -30,4 +30,4 @@
 
 ### Notes
 
-Changes are curtosy of James C. Searson.
+Curtosy of James C. Searson.
